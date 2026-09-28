@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/0527ef22-f4fe-443c-938f-92b4778dac60
+
 # Interactive Audio Processing App
 
 A MATLAB App Designer application for loading, playing, visualizing, and modifying audio. Developed as a two-person course project by Eliad Levy and Ron Rokach. Both collaborators worked together on the project; individual responsibilities are not attributed here.
