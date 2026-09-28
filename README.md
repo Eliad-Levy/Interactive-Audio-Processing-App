@@ -12,7 +12,8 @@ A MATLAB App Designer application for loading, playing, visualizing, and modifyi
 
 <!-- After the repository is created, attach media/demo-video.mp4 in the GitHub README editor and place its generated URL on the next line. Preview the README to confirm that the video player appears here. -->
 
-[Watch the 76-second demonstration](media/demo-video.mp4)
+
+https://github.com/user-attachments/assets/8aee8cab-d266-4429-a408-ae4f7a86b9ae
 
 The demo audio was synthesized specifically for this portfolio presentation. It was not part of the original course submission. The video and screenshots were recorded later using the submitted app. [Download the original demo audio](media/demo-audio.wav).
 
