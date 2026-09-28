@@ -4,9 +4,16 @@ A MATLAB App Designer application for loading, playing, visualizing, and modifyi
 
 ## Demo
 
-| Original audio | Filters enabled | Tremolo enabled |
-| --- | --- | --- |
-| ![Waveform and spectrogram of the loaded audio](media/screenshots/01-original.png) | ![Filter controls, response plot, waveform and spectrogram](media/screenshots/02-filters.png) | ![Tremolo controls, modulation envelope, waveform and spectrogram](media/screenshots/03-tremolo.png) |
+### Original audio
+
+![Waveform and spectrogram of the loaded audio](media/screenshots/01-original.png)
+
+### Audio effects
+
+| Filters enabled | Tremolo enabled |
+| --- | --- |
+| ![Filter controls, response plot, waveform and spectrogram](media/screenshots/02-filters.png) | ![Tremolo controls, modulation envelope, waveform and spectrogram](media/screenshots/03-tremolo.png) |
+
 
 ### Video walkthrough
 
