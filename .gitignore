@@ -1,0 +1,13 @@
+# MATLAB temporary and generated files
+*.asv
+*.autosave
+*.m~
+*.mlx.autosave
+*.slxc
+slprj/
+codegen/
+
+# Local machine files
+.DS_Store
+Thumbs.db
+desktop.ini
