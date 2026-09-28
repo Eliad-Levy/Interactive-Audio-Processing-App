@@ -1,6 +1,5 @@
 
 
-https://github.com/user-attachments/assets/0527ef22-f4fe-443c-938f-92b4778dac60
 
 # Interactive Audio Processing App
 
@@ -23,6 +22,10 @@ A MATLAB App Designer application for loading, playing, visualizing, and modifyi
 ### Video walkthrough
 
 [Watch the 76-second demonstration](media/demo-video.mp4)
+
+
+https://github.com/user-attachments/assets/6df05ae3-aecf-4d7c-a374-56924e16f7f4
+
 
 The demo audio was synthesized specifically for this portfolio presentation. It was not part of the original course submission. The video and screenshots were recorded later using the submitted app. [Download the original demo audio](media/demo-audio.wav).
 
